@@ -113,13 +113,14 @@ st.write("M.Sc. degree in ‘pure Mathematics’.2017, Faculty of Science, South
 st.write("Bachelor Degree in Science (Mathematics) 2008, Al-Azhar University / Faculty of Science.")
 # --- Edu 3
 st.write("Professional Diploma in Software Engineering with Distinction, Cairo University with Honors .")
-if st.button('Select_columns_need'):
+if st.button('Show'):
 
   # Example 2: Display an image from a local file
   image_file = 'assets/28461194_2024634324216872_2091704565_o.jpg'
   image_file2 = 'assets/28504645_2024633124216992_1882864731_o.jpg'
   
-  st.image(image_file, caption='Local Image')
+  #st.image(image_file, caption='Local Image')
+  st.image(image_file,  width=300, caption='Resized Image')
   
   # Example 3: Display an image with custom dimensions
   #st.image('path/to/image.jpg', width=300, caption='Resized Image')
