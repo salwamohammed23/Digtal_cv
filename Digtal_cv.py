@@ -118,10 +118,15 @@ if st.button('Show'):
   # Example 2: Display an image from a local file
   image_file = 'assets/28461194_2024634324216872_2091704565_o.jpg'
   image_file2 = 'assets/28504645_2024633124216992_1882864731_o.jpg'
+  image_file3 = 'assets/383389482_6258938180873702_6150650001186814059_n.jpg'
+  image_file4 = 'assets/383783213_6258938014207052_5695492704011137997_n.jpg'
   
   #st.image(image_file, caption='Local Image')
   st.image(image_file,  width=300, caption='Resized Image')
   
   # Example 3: Display an image with custom dimensions
   #st.image('path/to/image.jpg', width=300, caption='Resized Image')
-  st.image(image_file2, width=300, caption='Resized Image')
+  st.image(image_file3, width=300, caption='Resized Image')
+  st.image(image_file4, width=300, caption='Resized Image')
+  
+  
