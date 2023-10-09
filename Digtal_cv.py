@@ -81,12 +81,12 @@ st.write('\n')
 st.subheader("Hard Skills")
 st.write(
     """
-- 👩‍💻 Programming: Python (Scikit-learn, Pandas,TensorFlow, Keras,streamlit ), SQL, VBA
+- 👩‍💻 Programming: Python (Scikit-learn, Pandas,TensorFlow, Keras,streamlit ), SQL.
 - Write paper in Latic
 
-- 📊 Data Visulization:Plotly,, Statistics
-- 📚 Modeling: ML models, DL models
-- 🗄️ Databases: MongoDB, MySQL
+- 📊 Data Visulization:Plotly, Statistics.
+- 📚 Modeling: ML models, DL models.
+- 🗄️ Databases: MongoDB, MySQL.
 """
 )
 
