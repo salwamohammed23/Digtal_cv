@@ -112,7 +112,7 @@ st.write("M.Sc. degree in ‘pure Mathematics’.2017, Faculty of Science, South
 # --- Edu 2
 st.write("Bachelor Degree in Science (Mathematics) 2008, Al-Azhar University / Faculty of Science.")
 # --- Edu 3
-st.write("Professional Diploma in Software Engineering with Distinction, Cairo University with Honors .")
+st.write("Professional Diploma in Software Engineering with Distinction, Cairo University with Honors.")
 if st.button('Show'):
 
   # Example 2: Display an image from a local file
