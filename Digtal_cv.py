@@ -14,7 +14,7 @@ profile_pic = current_dir / "assets" / "300846713_5028669960567203_6940056269635
 # --- GENERAL SETTINGS ---
 PAGE_TITLE = "Digital CV | Salwa Mohammed"
 PAGE_ICON = ":wave:"
-NAME = "John Doe"
+NAME = "Salwa Mohammed"
 DESCRIPTION = """
 ML engineer, image processing , Comuter vision.
 """
