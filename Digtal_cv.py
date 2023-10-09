@@ -104,7 +104,7 @@ st.write("Mathematics Teacher")
 
 # --- Education ---
 st.write('\n')
-st.subheader("Educationy")
+st.subheader("Education")
 st.write("---")
 
 # --- Edu 1
