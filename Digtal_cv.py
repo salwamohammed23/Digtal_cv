@@ -108,8 +108,7 @@ st.subheader("Educationy")
 st.write("---")
 
 # --- Edu 1
-st.write("M.Sc. degree in ‘pure Mathematics’.2017, Faculty of Science, 
-South Valley University.")
+st.write("M.Sc. degree in ‘pure Mathematics’.2017, Faculty of Science, South Valley University.")
 # --- Edu 2
 st.write("Bachelor Degree in Science (Mathematics) 2008, Al-Azhar University / Faculty of Science.")
 # --- Edu 3
