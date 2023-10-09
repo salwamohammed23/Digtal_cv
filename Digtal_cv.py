@@ -128,5 +128,6 @@ if st.button('Show'):
   #st.image('path/to/image.jpg', width=300, caption='Resized Image')
   st.image(image_file3, width=300, caption='Resized Image')
   st.image(image_file4, width=300, caption='Resized Image')
+  st.image(image_file2, width=300, caption='Resized Image')
   
   
